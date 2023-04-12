@@ -1,0 +1,11 @@
+.review-Item{
+    width: 571px;
+    border: 1px solid aquamarine;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    padding: 8px;
+}
+.review-Item img{
+    width: 91px;
+    height: 91px;
+}
